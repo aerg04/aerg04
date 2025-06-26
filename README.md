@@ -38,6 +38,7 @@
 ## Statistics 🚀
 ![Aerg's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerg04&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerg04&layout=pie&theme=dark&hide_progress=true)](https://github.com/aerg04/github-readme-stats)
 
 ## Contact me 📫
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andres.rangel@correo.unimet.edu.ve)
