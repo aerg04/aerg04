@@ -1,3 +1,9 @@
+## Portafolio
+[Personal Web](https://portafolio-beta-rouge-84.vercel.app/)
+
+## Contact me 📫
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ve.linkedin.com/in/andr%C3%A9s-rangel-060ab8255)
+
 ## Tech Stack
 
 <p align="center">
@@ -40,9 +46,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerg04&layout=pie&theme=dark&hide_progress=true)](https://github.com/aerg04/github-readme-stats)
 
-## Contact me 📫
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andres.rangel@correo.unimet.edu.ve)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ve.linkedin.com/in/andr%C3%A9s-rangel-060ab8255)
 
 <!--
 **aerg04/aerg04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
